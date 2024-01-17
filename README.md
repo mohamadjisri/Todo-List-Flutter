@@ -1,2 +1,2 @@
-# thesis_todo_list
+# Flutter_todo_list_project
 
